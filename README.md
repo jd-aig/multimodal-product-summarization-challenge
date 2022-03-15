@@ -110,7 +110,7 @@ K-PLUG: Knowledge-injected Pre-trained Language Model for Natural Language Under
 <a name="Evaluation"/>
 
 ## Evaluation
-The results need to be submitted to the [leaderboard](https://TODO) of the challenge. The evaluation consists of two stages, an automatic evaluation, and a human evaluation. For automatic evaluation, we adopt the metrics of ROUGE and BERTScore. We select the top-5 teams regarding the ROUGE and BERTScore, respectively, advance to the second round of evaluation, i.e., the human evaluation. For the human evaluation, we evaluate faithfulness, readability, non-redundancy, and importance, for 100 random sampled summaries each category. The final ranking is determined by the average score of the human evaluation.
+The results need to be submitted to the [leaderboard](https://TODO) of the challenge. The evaluation consists of two stages, an automatic evaluation, and a human evaluation. For automatic evaluation, we adopt the metric of ROUGE. We select the top-5 teams regarding the average score of ROUGE-1, ROUGE-2, and ROUGE-L to advance to the second round of evaluation, i.e., the human evaluation. For the human evaluation, we evaluate faithfulness, readability, non-redundancy, and importance, for 100 random sampled summaries each category. The final ranking is determined by the average score of the human evaluation.
 
 <a name="Human_Evaluation"/>
 
