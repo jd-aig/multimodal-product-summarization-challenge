@@ -144,13 +144,13 @@ If you are interested in our challenge, please fill out the [application form](h
 <a name="award"/>
 
 ## Award
+The top 3 participating teams will be certificated by NLPCC and CCF-NLP, as well as cash rewards.
+
 The first prize (*1): ￥3000 
 
 The second prize (*1): ￥2000
 
 The third prize (*1): ￥1000
-
-The top 3 participating teams will be certificated by NLPCC and CCF-NLP.
 
 <a name="Important_Dates"/>
 
