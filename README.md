@@ -1,4 +1,4 @@
-# Shared Task for NLPCC'2022: Multimodal Product Summarization 
+# Shared Task in NLPCC 2022: Multimodal Product Summarization 
 The multimodal product summarization task aims at generating a condensed textual summary for a given product. The input contains a detailed product description, a product knowledge base, and a product image. 
 
 ## Table of Contents
