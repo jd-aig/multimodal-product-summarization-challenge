@@ -1,0 +1,1 @@
+# multimodal-product-summarization-challenge
