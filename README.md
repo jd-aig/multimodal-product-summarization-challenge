@@ -150,6 +150,8 @@ The second prize (*1): ￥2000
 
 The third prize (*1): ￥1000
 
+The top 3 participating teams will be certificated by NLPCC and CCF-NLP.
+
 <a name="Important_Dates"/>
 
 ## Important Dates
