@@ -161,13 +161,13 @@ Registration open:	2022/3/15
 
 Release of detailed task guidelines & training data:	2022/4/5
 
+First submission of results on the test data:	2022/5/1
+
 Registration deadline:	2022/5/5
 
-Release of test data:	2022/5/10
+Participants’ results submission deadline:	2022/6/3
 
-Participants’ results submission deadline:	2022/5/20
-
-Evaluation results release and call for system reports and conference paper:	2022/5/30
+Evaluation results release and call for system reports and conference paper:	2022/6/10
 
 Conference paper submission deadline (only for shared tasks):	2022/6/20
 
@@ -176,6 +176,11 @@ Conference paper accept/reject notification:	2022/7/4
 Camera-ready paper submission deadline:	2022/7/18
 
 <a name="Reference"/>
+
+### WeChat group for this shared task
+ <img src="https://user-images.githubusercontent.com/8317385/158344167-0dd640f1-ec31-4762-91e5-266e8af87474.jpg" width = "300" align=center />
+
+
 
 ## Reference
 [1] Li et. al., [Aspect-Aware Multimodal Summarization for Chinese E-Commerce Products](https://scholar.archive.org/work/743ewpj4pfh3fcdk7paqfrd7pi/access/wayback/https://aaai.org/ojs/index.php/AAAI/article/download/6332/6188). AAAI 2020.
