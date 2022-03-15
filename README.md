@@ -103,7 +103,7 @@ K-PLUG: Knowledge-injected Pre-trained Language Model for Natural Language Under
 <a name="Multimodal_version"/>
 
 ### Multimodal version
-[code](https://TODO)
+[code](https://github.com/WaveLi123/m-kplug)
 
 > Note: submission of the baselines are NOT acceptable.
 
