@@ -161,7 +161,7 @@ Registration open:	2022/3/15
 
 Release of detailed task guidelines & training data:	2022/4/5
 
-First submission of results on the test data:	2022/5/1
+First submission of results on the blind test data:	2022/5/1
 
 Registration deadline:	2022/5/5
 
