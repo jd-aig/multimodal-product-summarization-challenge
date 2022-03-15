@@ -148,7 +148,7 @@ The first prize (*1): ￥3000
 
 The second prize (*1): ￥2000
 
-The third prize (*2): ￥1000
+The third prize (*1): ￥1000
 
 <a name="Important_Dates"/>
 
