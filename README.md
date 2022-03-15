@@ -105,7 +105,7 @@ K-PLUG: Knowledge-injected Pre-trained Language Model for Natural Language Under
 ### Multimodal version
 [code](https://TODO)
 
-> Remember: submission of the baselines are NOT acceptable.
+> Note: submission of the baselines are NOT acceptable.
 
 <a name="Evaluation"/>
 
