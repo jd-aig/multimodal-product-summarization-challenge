@@ -193,5 +193,5 @@ Camera-ready paper submission deadline:	2022/7/18
 
 [3] Xu et. al., [Self-Attention Guided Copy Mechanism for Abstractive Summarization](https://aclanthology.org/2020.acl-main.125/). ACL 2020.
 
-[4] Song et. al., [K-PLUG: Knowledge-injected Pre-trained Language Model for Natural Language Understanding and Generation in E-Commerce](https://aclanthology.org/2021.findings-emnlp.1/). Findings of ACL: EMNLP 2021.
+[4] Xu et. al., [K-PLUG: Knowledge-injected Pre-trained Language Model for Natural Language Understanding and Generation in E-Commerce](https://aclanthology.org/2021.findings-emnlp.1/). Findings of ACL: EMNLP 2021.
 
