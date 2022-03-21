@@ -141,7 +141,7 @@ The results need to be submitted to the [leaderboard](https://TODO) of the chall
 <a name="Participation"/>
 
 ## Participation
-If you are interested in our challenge, please fill out the application form ([pdf](https://nlp-object-store.s3.cn-north-1.jdcloud-oss.com/multimodal-product-summarization-challenge/Application_terms.pdf) or [word](https://nlp-object-store.s3.cn-north-1.jdcloud-oss.com/multimodal-product-summarization-challenge/Application_terms.docx)) and email lihaoran24 at jd.com (Please note that you participate in the challenge). The dataset will be sent to you. 
+If you are interested in our challenge, please fill out the [application form](https://nlp-object-store.s3.cn-north-1.jdcloud-oss.com/multimodal-product-summarization-challenge/Application_terms.docx) and email lihaoran24 at jd.com (Please note that you participate in the challenge). The dataset will be sent to you. 
 
 <a name="award"/>
 
@@ -161,7 +161,7 @@ Announcement of shared tasks and call for participation:	2022/3/15
 
 Registration open:	2022/3/15
 
-Release of detailed task guidelines & training data:	2022/4/5
+Release of detailed task guidelines & training data:	2022/3/15
 
 First submission of results on the blind test data:	2022/5/1
 
