@@ -141,7 +141,7 @@ The results need to be submitted to the [leaderboard](https://TODO) of the chall
 <a name="Participation"/>
 
 ## Participation
-If you are interested in our challenge, please fill out the [application form](https://nlp-object-store.s3.cn-north-1.jdcloud-oss.com/multimodal-product-summarization-challenge/Application_terms.docx) and email lihaoran24 at jd.com (Please note that you participate in the challenge). The dataset will be sent to you. 
+If you are interested in our challenge, please fill out the [application form](https://nlp-object-store.s3.cn-north-1.jdcloud-oss.com/multimodal-product-summarization-challenge/Application_terms.docx) and email lihaoran24 at jd.com (Please email us with your organization's email and note that you participate in the challenge). The dataset will be sent to you. 
 
 <a name="award"/>
 
