@@ -180,7 +180,8 @@ Camera-ready paper submission deadline:	2022/7/18
 <a name="Reference"/>
 
 ### WeChat group for this shared task
- <img src="https://user-images.githubusercontent.com/8317385/159206842-306eabc6-2e24-41f9-9d60-738be9586556.jpeg" width = "300" align=center />
+ <img src="https://user-images.githubusercontent.com/8317385/160331628-368aa519-6a2c-4320-80c0-ba6da8ebb843.png" width = "300" align=center />
+
 
 
 ## Reference
