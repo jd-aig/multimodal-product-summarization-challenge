@@ -98,12 +98,12 @@ K-PLUG: Knowledge-injected Pre-trained Language Model for Natural Language Under
 <a name="Text-only_version"/>
 
 ### Text-only version
-[code](https://github.com/xu-song/k-plug)
+[code](https://github.com/jd-aig/k-plug)
 
 <a name="Multimodal_version"/>
 
 ### Multimodal version
-[code](https://github.com/WaveLi123/m-kplug)
+[code](https://github.com/jd-aig/m-kplug)
 
 > Note: submission of the baselines are NOT acceptable.
 
